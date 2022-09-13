@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zahra Shahid
 - 👀 I’m interested in Backend Engineering
-- 🌱 I’m currently learning NodeJs, Express, MongoDB, and Docker
+- 🌱 I’m currently learning NodeJs, Express, MongoDB,MySQL, PostgreSQL and Docker
 
 <!---
 DevZahraShahid/DevZahraShahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
